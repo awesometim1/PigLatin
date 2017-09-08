@@ -5,7 +5,7 @@ PD 7
 9/6/2017
 
 
-PIG LATINO
+PIG LATIN
 leading consonant to end and append "ay"
 1st letter=vowel? append "way"
 No vowel?= INVALID 
